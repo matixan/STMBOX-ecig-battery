@@ -5,5 +5,5 @@ There are avaibile many themes on colorfull IPS screen 240x240px
 # Work in progres
 At this moment I ordered PCBs and ICs
 There is some work in programming, but still a lot to do
-$ Future
+# Future
 I want make it some kind of mass production and sell it fully assembled on some mod makers pages or my own shop.
